@@ -1,6 +1,10 @@
 # PI-Web-API-Samples
 A collection of example projects that uses the PI Web API. For more information about PI Web API, please visit the PI Web API overview at the [OSIsoft Tech Support site](https://techsupport.osisoft.com/Products/Developer-Technologies/PI-Web-API/Overview). 
 
+## Excel VBA
+In case you are interested to use PI Web API with VBA you can get started with this blog post on PI Square
+[How to use PI Web API with VBA - Introduction](https://pisquare.osisoft.com/community/developers-club/blog/2016/04/08/how-to-use-pi-web-api-with-vba)
+
 ##Organization
 This repository is organized by programming language (e.g. C#, JavaScript, etc.). You can find individual project within the folder for each programming language. 
 
